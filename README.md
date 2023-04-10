@@ -30,3 +30,12 @@ IOT_객체지향프로그래밍_C#
 - Win App
   - WinForms 컨트롤
   - WinForms 간단한 실습(LoginUI)
+
+## 5일차
+- C# 기본
+  - 상속
+  - Property
+  - ArrayList(배열)
+ 
+- Win App
+  - WinForms 파
