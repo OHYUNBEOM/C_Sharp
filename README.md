@@ -33,9 +33,9 @@ IOT_객체지향프로그래밍_C#
 
 ## 5일차
 - C# 기본
-  - 상속
+  - Abstract(추상클래스)
   - Property
   - ArrayList(배열)
  
 - Win App
-  - WinForms 파
+  - WinForms 파일시스템
