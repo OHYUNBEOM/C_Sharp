@@ -42,3 +42,13 @@ IOT_객체지향프로그래밍_C#
   
   
   ![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/0410wpf.png)
+  
+  ## 6일차
+  - C# 기본
+    - 컬렉션
+    - 일반화 프로그래밍
+    - 예외처리
+  - Win App
+    - 탐색기 마무리
+    - DB핸들링
+    - BookRentalShop DB 사용 WinForms 앱개발
