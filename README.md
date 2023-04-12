@@ -56,6 +56,10 @@ IOT_객체지향프로그래밍_C#
 ## 7일차
 - C# 기본
   - 대리자, 이벤트
-  
+  - 람다식
+  - 
+  - 파일 핸들링
+
 - Win App
   - DB 연동
+  - BookRentalShop DB 사용 WinForms 앱개발
