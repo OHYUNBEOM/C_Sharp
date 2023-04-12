@@ -52,3 +52,10 @@ IOT_객체지향프로그래밍_C#
     - 탐색기 마무리
     - DB핸들링
     - BookRentalShop DB 사용 WinForms 앱개발
+
+## 7일차
+- C# 기본
+  - 대리자, 이벤트
+  
+- Win App
+  - DB 연동
