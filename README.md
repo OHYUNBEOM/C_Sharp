@@ -61,4 +61,8 @@ IOT_객체지향프로그래밍_C#
 
 - Win App
   - DB 연동
+![실행화면]
+  - MDI 학습
+  
+![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/0412mdi.png)
   - BookRentalShop DB 사용 WinForms 앱개발
