@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs30_FileReadWrite", "cs30_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf12_notepad", "wf12_notepad\wf12_notepad.csproj", "{370310D2-EEFC-445D-8B01-E891CCF77BF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookRentalShop", "BookRentalShop\BookRentalShop.csproj", "{560ADDB2-0367-4CF0-86BB-C8B462DE09AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{370310D2-EEFC-445D-8B01-E891CCF77BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{370310D2-EEFC-445D-8B01-E891CCF77BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{370310D2-EEFC-445D-8B01-E891CCF77BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560ADDB2-0367-4CF0-86BB-C8B462DE09AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560ADDB2-0367-4CF0-86BB-C8B462DE09AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560ADDB2-0367-4CF0-86BB-C8B462DE09AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560ADDB2-0367-4CF0-86BB-C8B462DE09AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
