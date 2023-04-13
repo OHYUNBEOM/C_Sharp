@@ -69,7 +69,6 @@ IOT_객체지향프로그래밍_C#
 ## 8일차
 - C# 기본
   - 파일 핸들링
-  - 스레드/Task
   - NotePad 실습
     - ![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/0413NotePad.png)
     
