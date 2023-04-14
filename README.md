@@ -74,3 +74,14 @@ IOT_객체지향프로그래밍_C#
     
 - Win App
   - BookRentalShop DB 사용 WinForms 앱개발
+    - WinForms MDI
+    - MySQL 연동
+  
+  
+## 9일차
+- C# 기본
+  - 스레드 / 태스크
+  - 가비지 컬렉션
+  
+- Win App
+  - BookRentalShop 앱개
