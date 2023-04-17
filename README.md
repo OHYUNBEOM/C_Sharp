@@ -84,4 +84,10 @@ IOT_객체지향프로그래밍_C#
   - 가비지 컬렉션
   
 - Win App
-  - BookRentalShop 앱개
+  - BookRentalShop App 계속
+  
+## 10일차
+- Win App
+  - BookRentalShop App
+  
+- 코딩테스트
