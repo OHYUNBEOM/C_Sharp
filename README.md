@@ -91,3 +91,18 @@ IOT_객체지향프로그래밍_C#
   - BookRentalShop App
   
 - 코딩테스트
+
+## 11일차
+- Win App
+  - BookRentalShop App 마무리
+    - #### 초기화면
+    ![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/bookrentalshop_1.png)
+    
+    - #### 책 장르 관리
+    ![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/bookrentalshop_2.png)
+    ![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/bookrentalshop_2(1).png)
+    
+    - #### 책 정보 관리
+    ![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/bookrentalshop_3.png)
+    ![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/bookrentalshop_3(1).png)
+    ![실행화면](https://raw.githubusercontent.com/OHYUNBEOM/C_Sharp/main/images/bookrentalshop_3(2).png)
